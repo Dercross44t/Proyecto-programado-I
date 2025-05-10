@@ -1,20 +1,15 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package serversodaucr;
+/*
+Titulo: Sistema de Pedidos en Línea para Soda Universitari
+Integrantes: Martin Chavez Angulo C4E332,
+Función: . Este proyecto busca simular un sistema de pedidos en línea, donde los estudiantes puedan realizar
+sus órdenes desde sus computadoras o teléfonos en la red interna, y la soda reciba esos pedidos en tiempo real.
+Versión: 0.1
+*/
+public class ServerSodaUCR {//Clase inicio
 
-/**
- *
- * @author Martin
- */
-public class ServerSodaUCR {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+    public static void main(String[] args) {//Main inicio
+        
+    }//Main fin
     
-}
+}//Clase fin
